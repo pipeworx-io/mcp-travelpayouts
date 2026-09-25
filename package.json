@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-travelpayouts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Travelpayouts MCP — wraps the Aviasales Flights Data API (travelpayouts.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-1d41a9e1ccf7835cc60ec27f0220fa6e2421100da62e1dd5667b6db72f739718",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
   }
 }
